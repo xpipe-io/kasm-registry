@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'XPipe Webtop',
     description: 'https://github.com/xpipe-io/xpipe-webtop',
     icon: 'https://xpipe.io/favicon.ico',
-    listUrl: 'https://xpipe-io.github.io/kasm-registry',
+    listUrl: 'https://kasm.github.io',
     contactUrl: 'https://xpipe.io',
   },
   reactStrictMode: true,
