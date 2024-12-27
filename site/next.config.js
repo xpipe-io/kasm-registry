@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'XPipe Webtop',
+    description: 'https://github.com/xpipe-io/xpipe-webtop',
+    icon: 'https://xpipe.io/favicon.ico',
+    listUrl: 'https://xpipe-io.github.io/kasm-registry',
+    contactUrl: 'https://xpipe.io',
   },
   reactStrictMode: true,
   swcMinify: true,
