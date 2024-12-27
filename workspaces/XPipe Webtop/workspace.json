@@ -7,7 +7,7 @@
   "memory": 2768,
   "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
-  "categories": "
+  "categories":
     "Desktop",
     "Productivity",
 	"Development"
