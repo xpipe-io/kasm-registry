@@ -1,6 +1,6 @@
 {
   "description": "A containerized web-based desktop environment for XPipe",
-  "image_src": "xpipe.png",
+  "image_src": "xpipe-webtop.png",
   "name": "ghcr.io/xpipe-io/xpipe-webtop:latest",
   "cores": 2,
   "memory": 2768,
