@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'XPipe Webtop',
     description: 'https://github.com/xpipe-io/xpipe-webtop',
-    icon: 'https://xpipe.io/favicon.ico',
+    icon: 'https://xpipe.io/logo.svg',
     listUrl: 'https://kasm.xpipe.io',
     contactUrl: 'https://xpipe.io',
   },
