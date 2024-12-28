@@ -1,6 +1,5 @@
 {
   "description": "A containerized web-based desktop environment for XPipe",
-  "docker_registry": "https://index.docker.io/v1/",
   "image_src": "xpipe.png",
   "name": "ghcr.io/xpipe-io/xpipe-webtop:latest",
   "cores": 2,
@@ -10,7 +9,7 @@
   "categories": [
     "Desktop",
     "Productivity",
-	"Development"
+    "Development"
   ],
   "friendly_name": "XPipe Webtop",
   "architecture": [
