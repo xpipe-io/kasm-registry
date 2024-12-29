@@ -3,10 +3,6 @@
   "docker_registry": "https://ghcr.io/",
   "image_src": "xpipe-webtop.png",
   "name": "ghcr.io/xpipe-io/xpipe-webtop:latest",
-  "cores": 2,
-  "memory": 2768,
-  "gpu_count": 0,
-  "cpu_allocation_method": "Inherit",
   "categories": [
     "Desktop",
     "Productivity",
