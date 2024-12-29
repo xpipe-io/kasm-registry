@@ -2,9 +2,9 @@
 
 const nextConfig = {
   env: {
-    name: 'XPipe Webtop',
-    description: 'https://github.com/xpipe-io/xpipe-webtop',
-    icon: 'https://xpipe.io/logo.svg',
+    name: 'XPipe',
+    description: 'Workspaces for the XPipe Webtop images.',
+    icon: 'https://xpipe.io/logo_padded.svg',
     listUrl: 'https://kasm.xpipe.io/',
     contactUrl: 'https://xpipe.io',
   },
