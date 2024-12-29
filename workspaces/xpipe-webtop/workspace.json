@@ -2,7 +2,6 @@
   "description": "A containerized web-based desktop environment for XPipe",
   "docker_registry": "https://ghcr.io/",
   "image_src": "xpipe-webtop.png",
-  "name": "ghcr.io/xpipe-io/xpipe-webtop:latest",
   "categories": [
     "Desktop",
     "Productivity",
@@ -13,10 +12,10 @@
     "amd64"
   ],
   "compatibility": [
-    "1.13.x",
-    "1.14.x",
-    "1.15.x",
-    "1.16.x"
-  ],
-  "uncompressed_size_mb": 4222
+    {
+      "version": "1.16.x",
+      "image": "ghcr.io/xpipe-io/xpipe-webtop:latest",
+      "uncompressed_size_mb": 4222
+    }
+  ]
 }
