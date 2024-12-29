@@ -1,5 +1,6 @@
 {
   "description": "A containerized web-based desktop environment for XPipe",
+  "docker_registry": "https://ghcr.io/",
   "image_src": "xpipe-webtop.png",
   "name": "ghcr.io/xpipe-io/xpipe-webtop:latest",
   "cores": 2,
@@ -15,9 +16,6 @@
   "architecture": [
     "amd64"
   ],
-  "image_type": "Container",
-  "docker_registry": "https://ghcr.io/",
-  "enabled": true,
   "compatibility": [
     "1.13.x",
     "1.14.x",
