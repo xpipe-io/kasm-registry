@@ -2,6 +2,19 @@
   "description": "A containerized web-based desktop environment for XPipe",
   "docker_registry": "https://ghcr.io/",
   "image_src": "xpipe-webtop.png",
+  "run_config": {
+    "security_opt": [
+      "seccomp=unconfined"
+    ],
+    "entrypoint": [
+      "/kasminit"
+    ],
+    "user": 1000,
+    "environment": {
+      "HOME": "/home/kasm-user"
+    }
+  },
+  "exec_config": {},
   "categories": [
     "Desktop",
     "Productivity",
