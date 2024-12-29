@@ -3,6 +3,19 @@
   "docker_registry": "https://ghcr.io/",
   "image_src": "xpipe-webtop.png",
   "name": "ghcr.io/xpipe-io/xpipe-webtop:latest",
+  "run_config": {
+    "security_opt": [
+      "seccomp=unconfined"
+    ],
+    "entrypoint": [
+      "/kasminit"
+    ],
+    "user": 1000,
+    "environment": {
+      "HOME": "/home/kasm-user"
+    }
+  },
+  "exec_config": {},
   "categories": [
     "Desktop",
     "Productivity",
