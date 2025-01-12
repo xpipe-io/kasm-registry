@@ -22,7 +22,8 @@
   ],
   "friendly_name": "XPipe Webtop",
   "architecture": [
-    "amd64"
+    "amd64",
+    "arm64"
   ],
   "compatibility": [
     {
