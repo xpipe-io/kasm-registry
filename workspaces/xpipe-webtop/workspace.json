@@ -35,6 +35,11 @@
       "version": "1.17.x",
       "image": "ghcr.io/xpipe-io/xpipe-webtop:latest",
       "uncompressed_size_mb": 4222
+    },
+    {
+      "version": "1.18.x",
+      "image": "ghcr.io/xpipe-io/xpipe-webtop:latest",
+      "uncompressed_size_mb": 4222
     }
   ]
 }
